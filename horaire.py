@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.10/bin/python3
 """
 Création d'un fichier iCalendar pour l'horaire.
 """
